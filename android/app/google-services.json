@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347844520434",
+    "project_id": "my-bolt-ai",
+    "storage_bucket": "my-bolt-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347844520434:android:9684c3d5bfca2b18fea36b",
+        "android_client_info": {
+          "package_name": "com.example.ai_chat_bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQat6RMckPGMqcPoXr-efoXFZf4CIt3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
